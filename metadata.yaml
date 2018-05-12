@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25722
     wikipedia: http://en.wikipedia.org/wiki/Charles_Fenno_Hoffman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23167#The-Man-In-The-Reservoir
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
 identifiers:
